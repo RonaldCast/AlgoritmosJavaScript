@@ -1,2 +1,0 @@
-# AlgoritmosJavaScript
-Created with CodeSandbox
